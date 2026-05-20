@@ -1,0 +1,10 @@
+title: Ai Research Blog
+baseurl: /ai-teams-blog
+url: https://skojaku.github.io
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    preview: false
+permalink: /:year/:month/:day/:title.html
